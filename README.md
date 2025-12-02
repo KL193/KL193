@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Kavindu Lakshan</h1>
-<h3 align="center">A passionate Devops Engineer from Sri Lanka</h3>
 
 <h1 align="center">
 Hi, I'm Kavindu Lakshan!
@@ -18,7 +16,7 @@ Hi, I'm Kavindu Lakshan!
 <br/>
 <p align="center">
 	<a href="https://github.com/KL193">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Passionate+Devops+Engineer+;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Passionate+Devops+Engineer+;Freelancer;Devops%20|%20Cloud%20|%20AI%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
