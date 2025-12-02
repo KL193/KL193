@@ -16,17 +16,16 @@ Hi, I'm Kavindu Lakshan!
 <br/>
 <p align="center">
 	<a href="https://github.com/KL193">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Passionate+Devops+Engineer+;Freelancer;Devops%20|%20Cloud%20|%20AI%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Passionate+Devops+Engineer+;Devops%20|%20Cloud%20|%20AI%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
 
 
 
-- 🌱 I’m currently learning **Kubernetes,automation,cloud**
-
+- 🌱 I’m currently learning **Devops,Cloud**
+- 🧑‍🎓 I’m an Undergraduate at USJ | CS
 - 📫 How to reach me **lakshankasthuriarachchi@gmail.com**
-
 - ⚡ Fun fact **Called me as KL**
 
 <h3 align="center">Connect with me:</h3>
