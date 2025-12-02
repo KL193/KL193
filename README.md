@@ -21,9 +21,7 @@ Hi, I'm Kavindu Lakshan!
 </p>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kl193&label=Profile%20views&color=0e75b6&style=flat" alt="kl193" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kl193" alt="kl193" /></a> </p>
 
 - 🌱 I’m currently learning **Kubernetes,automation,cloud**
 
@@ -46,6 +44,9 @@ Hi, I'm Kavindu Lakshan!
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kl193&" alt="kl193" />
 </div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kl193&label=Profile%20views&color=0e75b6&style=flat" alt="kl193" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kl193" alt="kl193" /></a> </p>
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
