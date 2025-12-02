@@ -46,9 +46,9 @@ Hi, I'm Kavindu Lakshan!
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kl193&show_icons=true&locale=en&layout=compact" alt="kl193" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KL193&show_icons=true&locale=en&layout=compact" alt="kl193" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kl193&show_icons=true&locale=en" alt="kl193" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KL193&show_icons=true&locale=en" alt="kl193" /></p>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kl193" alt="kl193" /></a> </p>
