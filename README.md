@@ -1,6 +1,28 @@
 <h1 align="center">Hi 👋, I'm Kavindu Lakshan</h1>
 <h3 align="center">A passionate Devops Engineer from Sri Lanka</h3>
 
+<h1 align="center">
+Hi, I'm Kavindu Lakshan!
+	<a href="https://github.com/KL193" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
+</h1>
+<p align="center">
+	<a href="https://github.com/KL193">
+		<img src="https://komarev.com/ghpvc/?username=KL193&label=Profile%20views&color=0e75b6&style=flat" alt="Lakshan" />
+	</a>
+	<a href="https://github.com/KL193">
+		<img src="https://img.shields.io/github/followers/KL193?label=Followers" alt="Lakshan" />
+	</a>
+</p>
+<br/>
+<p align="center">
+	<a href="https://github.com/KL193">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Passionate+Devops+Engineer+;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+	</a>
+</p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kl193&label=Profile%20views&color=0e75b6&style=flat" alt="kl193" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kl193" alt="kl193" /></a> </p>
