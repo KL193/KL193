@@ -26,7 +26,7 @@ Hi, I'm Kavindu Lakshan!
 - 🌱 I’m currently learning **Devops,Cloud**
 - 🧑‍🎓 I’m an Undergraduate at USJ | CS
 - 📫 How to reach me **lakshankasthuriarachchi@gmail.com**
-- ⚡ Fun fact **Called me as KL**
+- ⚡  **Called me as KL**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
